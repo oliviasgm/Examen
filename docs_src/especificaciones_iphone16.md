@@ -2,7 +2,7 @@
 
 ## Año de presentación: 2024
 
- ### *Acabado*
+### *Acabado*
 
 -   Negro
 -   blanco
