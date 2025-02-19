@@ -1,8 +1,8 @@
-iPhone 16 - Especificaciones técnicas
+# iPhone 16 - Especificaciones técnicas
 
-Año de presentación: 2024
+## Año de presentación: 2024
 
-Acabado
+ ### *Acabado*
 
 -   Negro
 -   blanco
@@ -14,20 +14,20 @@ Diseño de aluminio, Parte delantera con Ceramic Shield
 de última generación, Parte trasera de vidrio tintado en masa
 (negro, rosa, verde azulado y azul ultramar)
 
-Capacidad
+### *Capacidad*
 
 -   128 GB
 -   256 GB
 -   512 GB
 
-Dimensiones y peso^2^
+### *Dimensiones y peso^2^*
 
 -   Ancho: 7,16 cm
 -   Alto: 14,76 cm
 -   Grosor: 0,78 cm
 -   Peso: 170 g
 
-Pantalla
+### *Pantalla*
 
 -   Pantalla Super Retina XDR
 -   Pantalla OLED de 6,1 pulgadas (15,54 cm) en diagonal
@@ -51,21 +51,21 @@ rectángulo estándar. Si se mide como un rectángulo estándar en diagonal,
 la pantalla tiene 6,12 pulgadas. La superficie real de visión
 es inferior.
 
-Resistencia a las salpicaduras, el agua y el polvo^3^
+### *Resistencia a las salpicaduras, el agua y el polvo^3^*
 
 Calificación IP68 según la norma IEC 60529 (hasta 6 metros
 de profundidad durante un máximo de 30 minutos)
 
-Chip
+### *Chip*
 
 -   Chip A18
 -   Nueva CPU de 6 núcleos (2 de rendi­miento y 4 de eficiencia)
 -   Nueva GPU de 5 núcleos
 -   Nuevo Neural Engine de 16 núcleos
 
-Cámara
+### *Cámara*
 
-Sistema avanzado de cámara dual
+#### ***Sistema avanzado de cámara dual***
 
 -   Cámara Fusion de 48 Mpx: 26 mm, apertura de ƒ/1,6,
     estabili­zación óptica de imagen por desplazamiento del sensor,
@@ -100,7 +100,7 @@ Sistema avanzado de cámara dual
 -   Geoetiquetado de fotos
 -   Captura de imagen en formato HEIF y JPEG
 
-Grabación de vídeo
+#### ***Grabación de vídeo***
 
 -   Grabación de vídeo en 4K a 24, 25, 30 o 60 f/s con Dolby Vision
 -   Grabación de vídeo en 1080p a 25, 30 o 60 f/s con Dolby Vision
@@ -127,7 +127,7 @@ Grabación de vídeo
 -   Reducción de ruido del viento
 -   Mezcla de Audio
 
-Cámara TrueDepth
+#### *Cámara TrueDepth*
 
 -   Cámara de 12 Mpx
 -   Apertura de ƒ/1,9
@@ -155,25 +155,25 @@ Cámara TrueDepth
 -   Estabili­zación de vídeo con calidad de cine (4K, 1080p y 720p)
 -   Audio espacial y grabación en estéreo
 
-Face ID
+### *Face ID*
 
 Reconoci­miento facial mediante la cámara TrueDepth
 
-Apple Pay
+### *Apple Pay*
 
 -   Usa Face ID para pagar en tiendas, apps y páginas web con tu iPhone
 -   Confirma las compras realizadas con Apple Pay en el Mac
 
 [*Más información sobre Apple Pay*](https://apple.com/es/apple-pay/)
 
-Seguridad
+### *Seguridad*
 
 -   Emergencia SOS vía satélite^4^
 -   Detección de accidentes^5^
 
-Redes móviles e inalámbricas
+### Redes móviles e inalámbricas
 
-Modelo A3287\* Modelo A3290\*
+#### *Modelo A3287\* Modelo A3290\**
 
 -   FDD-5G NR (bandas n1, n2, n3, n5, n7, n8, n12, n20, n25, n26, n28,
     n30, n66, n70, n75 y n76)
@@ -184,7 +184,7 @@ Modelo A3287\* Modelo A3290\*
 -   UMTS/HSPA+/DC‑HSDPA (850, 900, 1.700/2.100, 1.900 y 2.100 MHz)
 -   GSM/EDGE (850, 900, 1.800 y 1.900 MHz)
 
-Todos los modelos
+***Todos los modelos***
 
 -   5G (sub‑6 GHz) con MIMO 4x4^6^
 -   LTE Gigabit con MIMO 4x4 y LAA^6^
@@ -199,7 +199,7 @@ Para obtener más información sobre la compati­bilidad con redes 5G y LTE,
 ponte en contacto con tu operador y consulta la
 página [*apple.com/es/iphone/cellular*](https://www.apple.com/es/iphone/cellular/).
 
-Geolocalización
+### *Geolocalización*
 
 -   GPS, GLONASS, Galileo, QZSS y BeiDou
 -   Brújula digital
@@ -207,7 +207,7 @@ Geolocalización
 -   Redes móviles
 -   Microlocalización iBeacon
 
-Videollamadas^9^
+### *Videollamadas^9^*
 
 -   Videollamadas FaceTime vía wifi o red móvil
 -   Videollamadas FaceTime HD (1080p) vía wifi o redes 5G
@@ -219,7 +219,7 @@ Videollamadas^9^
 -   Modos de micrófono Aislamiento de Voz y Sonido de Fondo
 -   Zoom en la cámara trasera
 
-Llamadas de voz^9^
+### *Llamadas de voz^9^*
 
 -   Llamadas de voz FaceTime
 -   Voz por LTE (VoLTE)^6^
@@ -230,14 +230,14 @@ Llamadas de voz^9^
 -   Audio espacial
 -   Modos de micrófono Aislamiento de Voz y Sonido de Fondo
 
-Reproducción de audio
+### *Reproducción de audio*
 
 -   Formatos compatibles: AAC, APAC, MP3, Apple Lossless, FLAC,
     Dolby Digital, Dolby Digital Plus y Dolby Atmos (entre otros)
 -   Audio espacial
 -   Límite de volumen configurable por el usuario
 
-Reproducción de vídeo
+### *Reproducción de vídeo*
 
 -   Formatos compatibles: HEVC, H.264 y AV1 (entre otros)
 -   HDR con Dolby Vision, HDR10+/HDR10 y HLG
@@ -249,7 +249,7 @@ Reproducción de vídeo
     adaptador de USB-C a AV digital (modelo A2119; el adaptador se vende
     por separado)^10^
 
-Siri^11^
+### *Siri^11^*
 
 -   Agiliza las cosas que más haces, como mandar mensajes, poner
     recordatorios y mucho más
@@ -258,11 +258,12 @@ Siri^11^
 
 [*Más información sobre Siri*](https://apple.com/es/siri/)
 
-Botones y conectores externos
+### *Botones y conectores externos*
+![Texto alternativo](imagenwindows.png)
 
-![](media/image1.png){width="3.95833in"
-height="6.95833in"}![](media/image2.png){width="3.95833in"
-height="6.4375in"}
+![](imageniphoned.png){width="3.95833in" height="6.95833in"} 
+![](imageniphonet.png){width="3.95833in" height="6.4375in"}
+
 
 1.  Cámara delantera
 2.   Botón lateral
@@ -275,24 +276,24 @@ height="6.4375in"}
 8.   Cámaras traseras
 9.  Flash
 
-Prestaciones del botón Acción
+### *Prestaciones del botón Acción*
 
 -   Modo Silencio, Modos de Concentración, Cámara, Linterna,
     Notas de Voz, Reconocer Música, Traducir, Lupa, Controles,
     Atajos o Accesibilidad
 
-Prestaciones de Control de Cámara
+### *Prestaciones de Control de Cámara*
 
 -   Exposición, Profundidad, Zoom, Cámaras, Estilos y Tono
 
-Carga y ampliación
+### *Carga y ampliación*
 
 -   Conector USB‑C compatible con:
 -   Carga
 -   DisplayPort
 -   USB 2 (hasta 480 Mb/s)
 
-Batería y alimentación^12^
+### *Batería y alimentación^12^*
 
 -   Reproducción de vídeo: Hasta 22 horas
 -   Streaming de vídeo: Hasta 18 horas
@@ -307,7 +308,7 @@ Batería y alimentación^12^
     30 W*](https://apple.com/es/shop/product/MW2G3ZM/A) o superior
     y cargador MagSafe (todos se venden por separado)
 
-MagSafe
+### *MagSafe*
 
 -   Carga inalámbrica de hasta 25 W con un adaptador de 30 W
     o superior^13^
@@ -316,7 +317,7 @@ MagSafe
 -   Identificación de accesorios con NFC
 -   Magnetómetro
 
-Sensores
+### *Sensores*
 
 -   Face ID
 -   Barómetro
@@ -607,7 +608,7 @@ malayo, neerlandés (de Bélgica y Países Bajos), noruego (bokmål),
 polaco, portugués (de Brasil y Portugal), rumano, ruso, shanghainés
 (de China continental), sueco, tailandés, turco, ucraniano y vietnamita
 
-Idiomas con diccionario monolingüe
+### *Idiomas con diccionario monolingüe*
 
 Alemán, búlgaro, catalán, chino (simplificado, tradicional y tradicional
 de Hong Kong), coreano, danés, español, francés, griego, hebreo, hindi,
@@ -615,11 +616,11 @@ inglés (de Estados Unidos y Reino Unido), italiano, japonés, malayo,
 neerlandés, noruego, polaco, portugués, punyabí, rumano, ruso, sueco,
 tailandés y turco
 
-Idiomas con diccionario de frases hechas
+### *Idiomas con diccionario de frases hechas*
 
 De chino simplificado y tradicional a inglés y de cantonés a inglés
 
-Idiomas con diccionario bilingüe
+### *Idiomas con diccionario bilingüe*
 
 De alemán a inglés, de árabe a inglés, de bengalí a inglés, de canarés a
 inglés, de cantonés (tradicional) a inglés, de checo a inglés, de chino
@@ -639,7 +640,7 @@ Idiomas con diccionario de sinónimos
 
 Chino simplificado e inglés (de Estados Unidos y Reino Unido)
 
-Revisión ortográfica
+### *Revisión ortográfica*
 
 Alemán (de Alemania, Austria y Suiza), árabe, árabe (najdí), búlgaro,
 checo, danés, español (de España, Latinoamérica y México), finés,
@@ -666,7 +667,7 @@ Zelanda, Panamá, Países Bajos, Palestina, Perú, Polonia, Portugal, Reino
 Unido, República Checa, Rumanía, San Marino, Serbia, Singapur,
 Sudáfrica, Suecia, Suiza, Taiwán, Ucrania y Vietnam
 
-Contenido de la caja
+### *Contenido de la caja*
 
 -   iPhone 16
 -   Cable de carga USB‑C (1 m)
@@ -690,7 +691,7 @@ medioambiental:^17^
 [*Consultar el informe medioambiental del iPhone 16
 y el iPhone 16 Plus*](https://www.apple.com/environment/pdf/products/iphone/iPhone_16_and_iPhone_16_Plus_PER_Sept2024.pdf)
 
-Progreso hacia Apple 2030
+### *Progreso hacia Apple 2030*
 
 -   Más de un 30 % de contenido reciclado^18^
 -   Un 30 % menos de emisiones en comparación con los registros tomados
@@ -698,7 +699,7 @@ Progreso hacia Apple 2030
 
 [*Ver el compromiso de Apple*](https://www.apple.com/es/environment/)
 
-Materiales
+### *Materiales*
 
 -   Aluminio 100 % reciclado en subestructura térmica del nuevo diseño
     interno
@@ -722,14 +723,14 @@ Materiales
 -   Embalaje compuesto por un 100 % de fibra^21^
 -   64 % de fibra reciclada en el embalaje
 
-Energía
+### *Energía*
 
 -   Más del 30 % de la electricidad empleada en la fabricación del
     iPhone 16 y el iPhone 16 Plus es de origen renovable^22^
 -   Supera las normas del Departamento de Energía estadounidense sobre
     sistemas de carga de baterías^23^
 
-Residuos
+### *Residuos*
 
 -   Como parte del programa de cero residuos de Apple, las fábricas de
     montaje final de nuestros proveedores recurrentes no generan
