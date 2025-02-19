@@ -1,0 +1,29 @@
+site_name: Examen Unidad 6
+site_url: https://oliviasgm.github.io/eXAMEN/
+docs_dir: 'docs_src'  
+site_dir: 'docs'
+nav:
+  - Inicio: README.md
+  - Guía de Instalaciín Windows 11: Guía_de_Instalación_Windows11.md
+  - Especificaciones Técnicas iPhone 16: Especificaciones_Tecnicas_iPhone16.md
+
+  - Descarga en pdf:
+    - Guía de Instalaciín Windows 11: Guía_de_Instalación_Windows11/Guía_de_Instalación_Windows11.pdf
+    - Especificaciones Técnicas iPhone 16: Especificaciones_Tecnicas_iPhone16/Especificaciones_Tecnicas_iPhone16.pdf
+theme: 
+  name: readthedocs
+plugins:
+  - search
+  - pdf-export:
+      enabled if_env: ENABLE_PDF_EXPORT
+      media_type: print
+  - with-pdf:
+      author: Olivia Susana Guziak
+      copyright: CCO 1.0 Universal
+      cover: true
+      back_cover: false
+      cover_title: Examen Unidad 6
+      cover_subtitle: Desarrollo interfaces -2º DAM
+      toc_title: Índice
+      toc_level: 2
+      ordered_chapter_level: 2
