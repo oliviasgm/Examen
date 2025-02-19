@@ -259,8 +259,6 @@ página [*apple.com/es/iphone/cellular*](https://www.apple.com/es/iphone/cellul
 [*Más información sobre Siri*](https://apple.com/es/siri/)
 
 ### *Botones y conectores externos*
-![Texto alternativo](imagenwindows.png)
-
 ![](imageniphoned.png){width="3.95833in" height="6.95833in"} 
 ![](imageniphonet.png){width="3.95833in" height="6.4375in"}
 
