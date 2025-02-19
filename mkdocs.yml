@@ -4,12 +4,12 @@ docs_dir: 'docs_src'
 site_dir: 'docs'
 nav:
   - Inicio: README.md
-  - Guía de Instalaciín Windows 11: Guía_de_Instalación_Windows11.md
-  - Especificaciones Técnicas iPhone 16: Especificaciones_Tecnicas_iPhone16.md
+  - Guía de Instalaciín Windows 11: instalacion_windows11.md
+  - Especificaciones Técnicas iPhone 16: especificaciones_iphone16.md
 
   - Descarga en pdf:
-    - Guía de Instalaciín Windows 11: Guía_de_Instalación_Windows11/Guía_de_Instalación_Windows11.pdf
-    - Especificaciones Técnicas iPhone 16: Especificaciones_Tecnicas_iPhone16/Especificaciones_Tecnicas_iPhone16.pdf
+    - Guía de Instalaciín Windows 11: instalacion_windows11/instalacion_windows11.pdf
+    - Especificaciones Técnicas iPhone 16: especificaciones_iphone16/especificaciones_iphone16.pdf
 theme: 
   name: readthedocs
 plugins:
