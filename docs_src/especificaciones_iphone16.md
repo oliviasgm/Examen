@@ -324,9 +324,9 @@ página [*apple.com/es/iphone/cellular*](https://www.apple.com/es/iphone/cellul
 -   Sensor de proximidad
 -   Doble sensor de luz ambiental
 
-Sistema operativo
+## *Sistema operativo*
 
-iOS
+### *iOS*
 
 iOS es el sistema operativo móvil más personal y seguro del mundo. Está
 repleto de funciones avanzadas y se ha diseñado para proteger
@@ -337,7 +337,7 @@ tu privacidad.
 [*Manual de uso del
 iPhone*](https://support.apple.com/es-es/guide/iphone/welcome/ios)
 
-Accesibilidad
+### *Accesibilidad*
 
 Las prestaciones integradas para distintas necesidades visuales,
 motrices, auditivas, cognitivas y del habla te ayudan a sacar todo
@@ -346,7 +346,7 @@ el partido a tu iPhone de la forma que mejor se adapte a ti.
 [*Obtén más información sobre
 Accesibilidad*](https://apple.com/es/accessibility/)
 
-Prestaciones incluidas:
+## Prestaciones incluidas:
 
 -   VoiceOver
 -   Zoom
@@ -364,7 +364,7 @@ Prestaciones incluidas:
 -   Atajos de Voz
 -   Contenido Leído
 
-Apps integradas
+## Apps integradas
 
 -   Apple Store
 -   App Store
@@ -416,7 +416,7 @@ Apps integradas
 Puedes ver la lista completa de apps de Apple disponibles en el iPhone
 en [*apple.com/es/apps*](https://apple.com/es/apps/).
 
-Tarjeta SIM
+### *Tarjeta SIM*
 
 -   Doble SIM (Nano SIM y eSIM)^14^
 -   Compatible con doble eSIM^14^
@@ -427,13 +427,13 @@ la eSIM*](https://support.apple.com/es-es/HT212780)
 [*Más información sobre la eSIM en viajes
 al extranjero*](https://support.apple.com/es-es/HT213448)
 
-Clasificación de compati­bilidad con audífonos
+## *Clasificación de compati­bilidad con audífonos*
 
-Compatible con la prestación Audífono
+### *Compatible con la prestación Audífono*
 
-Compati­bilidad con adjuntos de Mail
+### *Compati­bilidad con adjuntos de Mail*
 
-Tipos de documento visibles
+### *Tipos de documento visibles*
 
 -   .jpg, .tiff y .gif (imágenes); .doc y .docx (Microsoft Word); .htm
     y .html (páginas web); .key (Keynote); .numbers (Numbers); .pages
@@ -442,7 +442,7 @@ Tipos de documento visibles
     enriquecido); .vcf (información de contacto); .xls y .xlsx
     (Microsoft Excel); .zip; .ics y .usdz (USDZ Universal)
 
-Requisitos del sistema
+## *Requisitos del sistema*
 
 -   Cuenta de Apple (para algunas prestaciones)
 -   Acceso a internet^15^
@@ -454,16 +454,16 @@ Requisitos del sistema
     (descarga gratuita
     desde [*apple.com/es/itunes/download*](https://apple.com/es/itunes/download/))
 
-Requisitos ambientales
+## *Requisitos ambientales*
 
 -   Temperatura de funciona­miento: de 0 a 35 °C
 -   Temperatura de almacena­miento: de -20 a 45 °C
 -   Humedad relativa: del 5 al 95 % sin condensación
 -   Altitud máxima de funciona­miento: probado hasta 3.000 m
 
-Idiomas
+## *Idiomas*
 
-Idiomas compatibles
+### *Idiomas compatibles*
 
 Alemán, árabe, búlgaro, catalán, checo, chino (simplificado, tradicional
 y de Hong Kong), coreano, croata, danés, eslovaco, español (de España
@@ -473,7 +473,7 @@ Unido), italiano, japonés, kazajo, malayo, neerlandés, noruego, polaco,
 portugués (de Brasil y Portugal), rumano, ruso, sueco, tailandés, turco,
 ucraniano y vietnamita
 
-Idiomas compatibles con el teclado QuickType
+### *Idiomas compatibles con el teclado QuickType*
 
 Ainu, akan, albanés, alemán (de Alemania, Austria y Suiza), amárico,
 apache (occidental), árabe, árabe (najdí), armenio, asamés, asirio,
@@ -512,7 +512,7 @@ tongano, turco, turcomano, ucraniano, uigur, urdú (alfabético, QWERTY y
 transliteración), uzbeko (árabe, cirílico y latino), vietnamita (télex,
 VIQR y VNI), wancho, wolastoqey, yi de Liangshan, yidis y yoruba
 
-Idiomas compatibles con el teclado QuickType y el autocorrector
+### *Idiomas compatibles con el teclado QuickType y el autocorrector*
 
 Alemán (de Alemania, Austria y Suiza), árabe, árabe (najdí), bengalí
 (alfabético, InScript y transliteración), búlgaro, catalán, checo,
@@ -534,7 +534,7 @@ rumano, ruso, serbio (cirílico y latino), sueco, tailandés, tamil
 ucraniano, urdu (alfabético, QWERTY y transliteración) y vietnamita
 (télex)
 
-Idiomas compatibles con el teclado QuickType y la escritura predictiva
+### *Idiomas compatibles con el teclado QuickType y la escritura predictiva*
 
 Alemán (de Alemania, Austria y Suiza), árabe, árabe (najdí), bengalí,
 cantonés (tradicional), checo, chino (simplificado y tradicional),
@@ -546,7 +546,7 @@ lituano, maratí, neerlandés (de Bélgica y Países Bajos), noruego
 (bokmål, nynorsk), polaco, portugués (de Brasil y Portugal), punyabí,
 rumano, ruso, sueco, tailandés, tamil, telugu, turco y vietnamita.
 
-Idiomas compatibles con el teclado QuickType y la escritura multilingüe
+### *Idiomas compatibles con el teclado QuickType y la escritura multilingüe*
 
 Alemán (de Alemania, Austria y Suiza), chino simplificado (pinyin),
 chino tradicional (pinyin), español (de España, Latinoamérica y México),
@@ -556,8 +556,7 @@ Reino Unido, Singapur y Sudáfrica), italiano, japonés (romaji),
 neerlandés (de Bélgica y Países Bajos), polaco, portugués (de Brasil
 y Portugal), rumano, turco y vietnamita
 
-Idiomas compatibles con el teclado QuickType y las sugerencias
-contextuales
+### *Idiomas compatibles con el teclado QuickType y las sugerencias contextuales*
 
 Alemán (de Alemania, Austria y Suiza), árabe, árabe (najdí), chino
 (simplificado), español (de España, Latinoamérica y México), francés
@@ -567,7 +566,7 @@ Zelanda, Reino Unido, Singapur y Sudáfrica), italiano, neerlandés
 (de Bélgica y Países Bajos), portugués (de Brasil), ruso, sueco, turco
 y vietnamita
 
-Idiomas compatibles con el teclado QuickType y QuickPath
+### *Idiomas compatibles con el teclado QuickType y QuickPath*
 
 Alemán (de Alemania, Austria y Suiza), árabe, chino simplificado (pinyin
 QWERTY), chino tradicional (pinyin QWERTY), coreano, español (de España,
@@ -577,7 +576,7 @@ Reino Unido, Singapur y Sudáfrica), italiano, hebreo, neerlandés
 (de Bélgica y Países Bajos), polaco, portugués (de Brasil y Portugal),
 rumano, sueco y vietnamita
 
-Idiomas de Siri
+### *Idiomas de Siri*
 
 Alemán (de Alemania, Austria y Suiza), árabe (de Arabia Saudí y Emiratos
 Árabes Unidos), coreano (de Corea del Sur), cantonés (de China
@@ -591,7 +590,7 @@ y Sudáfrica), italiano (de Italia y Suiza), japonés (de Japón), malayo
 (de Noruega), portugués (de Brasil), ruso (de Rusia), sueco (de Suecia),
 tailandés (de Tailandia) y turco (de Turquía)
 
-Idiomas de Dictado
+### *Idiomas de Dictado*
 
 Alemán (de Alemania, Austria y Suiza), árabe (de Arabia Saudí, Catar,
 Emiratos Árabes Unidos, Kuwait), cantonés (de China continental y Hong
